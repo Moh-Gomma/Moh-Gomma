@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 Hi there , I'm Mohamed Gomaa<br>🏢 I'm a Software Engineer and Trainee at ITI<br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamedrizk352) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedrizk109) 
